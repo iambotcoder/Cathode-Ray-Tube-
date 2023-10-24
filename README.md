@@ -3,10 +3,6 @@
 
 https://github.com/iambotcoder/Cathode-Ray-Tube-/assets/92924680/56e93989-0e11-4324-b4ee-c5a807dbab4b
 
-
-
-![CRT](crt_image.png)
-
 This project demonstrates the working of a Cathode Ray Tube (CRT) using the `graphics.h` library in C/C++. It provides a visual representation of how a CRT creates images on the screen by controlling the movement of the electron beam.
 
 ## Table of Contents
